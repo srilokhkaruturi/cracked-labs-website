@@ -26,7 +26,7 @@ export default function TermsOfService() {
         We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on this page. You are advised to review these terms periodically for any changes.
       </p>
       <footer className="mt-8 text-center">
-        <p>Contact us at support@crackedlabs.com for any questions or concerns regarding these terms.</p>
+        <p>Contact us at team@crackedllc.com for any questions or concerns regarding these terms.</p>
       </footer>
     </div>
   );

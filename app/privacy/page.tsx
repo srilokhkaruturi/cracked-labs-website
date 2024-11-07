@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
         We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page. You are advised to review this Privacy Policy periodically for any changes.
       </p>
       <footer className="mt-8 text-center">
-        <p>Contact us at support@crackedlabs.com for any questions or concerns regarding this policy.</p>
+        <p>Contact us at team@crackedllc.com for any questions or concerns regarding this policy.</p>
       </footer>
     </div>
   );
